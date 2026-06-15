@@ -1,0 +1,23 @@
+{
+  "name": "reyan-ahmed-portfolio",
+  "version": "1.0.0",
+  "description": "AI & ML Portfolio Website for Reyan Ahmed",
+  "author": "Reyan Ahmed",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx http-server -p 3000 -o",
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'No build step required for static site'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "ai",
+    "machine-learning",
+    "web-development",
+    "vercel"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
